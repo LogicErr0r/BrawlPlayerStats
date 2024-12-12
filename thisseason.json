@@ -1,0 +1,905 @@
+{
+    "Discord tag": {
+        "name": "Discord tag",
+        "Week 1 Commander": "Commander",
+        "Week 1 Opponesnt": [
+            "Adversaire 1",
+            "Adversaire 2",
+            "Adversaire 3"
+        ],
+        "Week 2 Commander": "Commander",
+        "Week 2 Opponents": [
+            "Adversaire 1",
+            "Adversaire 2",
+            "Adversaire 3"
+        ],
+        "Week 3 Commander": "Commander",
+        "Week 3 Opponents": [
+            "Adversaire 1",
+            "Adversaire 2",
+            "Adversaire 3"
+        ],
+        "Week 4 Commander": "Commander",
+        "Week 4 Opponents": [
+            "Adversaire 1",
+            "Adversaire 2",
+            "Adversaire 3"
+        ],
+        "Favorite Color": null
+    },
+    "@predchow": {
+        "name": "@predchow",
+        "Week 1 Commander": "Liliana of the Veil",
+        "Week 1 Opponesnt": [
+            "XxjakegmrxX",
+            "BudzDaGawd",
+            "el_chivo_x"
+        ],
+        "Week 2 Commander": "Tamiyo, Field Researcher",
+        "Week 2 Opponents": [
+            "thorntonamo",
+            "ArthurusBear#94635",
+            "Mortred#7824"
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B"
+        ]
+    },
+    "ArthurusBear#94635": {
+        "name": "ArthurusBear#94635",
+        "Week 1 Commander": "Sheoldred, the Apocalypse",
+        "Week 1 Opponesnt": [
+            "thorntonamo",
+            "themudman#8734",
+            "blakeleygaming"
+        ],
+        "Week 2 Commander": "Toxrill, the Corrosive",
+        "Week 2 Opponents": [
+            "momo2000",
+            "onlyattarget",
+            "@predchow"
+        ],
+        "Week 3 Commander": "Atraxa, Grand Unifier",
+        "Week 3 Opponents": [
+            "DaJolla#5108",
+            "Rendroc#6657",
+            "Mortred#7824"
+        ],
+        "Week 4 Commander": "Niv-Mizzet, Parun",
+        "Week 4 Opponents": [
+            "xbastoo3486",
+            "escanorthecat",
+            "rokushiiki#26463"
+        ],
+        "Favorite Color": [
+            "B"
+        ]
+    },
+    "blakeleygaming": {
+        "name": "blakeleygaming",
+        "Week 1 Commander": "Satya, Aetherflux Genius",
+        "Week 1 Opponesnt": [
+            "themudman#8734",
+            "ArthurusBear#94635",
+            "masser"
+        ],
+        "Week 2 Commander": "Satya, Aetherflux Genius",
+        "Week 2 Opponents": [
+            "XxjakegmrxX",
+            "DiesToRemoval#38340",
+            "Freyalis\u00c3\u00abr#3719"
+        ],
+        "Week 3 Commander": "Satya, Aetherflux Genius",
+        "Week 3 Opponents": [
+            "MathemaTiGer128#0607",
+            "DaJolla#5108",
+            "Rendroc#6657"
+        ],
+        "Week 4 Commander": "Satya, Aetherflux Genius",
+        "Week 4 Opponents": [
+            "yoyomuffin",
+            "Mortred#7824",
+            "grimstien1#5556"
+        ],
+        "Favorite Color": [
+            "R",
+            "U",
+            "W"
+        ]
+    },
+    "bpro_": {
+        "name": "bpro_",
+        "Week 1 Commander": "Minsc & Boo, Timeless Heroes",
+        "Week 1 Opponesnt": [
+            "masser",
+            "grimstien1#5556",
+            "DiesToRemoval#38340"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": null
+    },
+    "BudzDaGawd": {
+        "name": "BudzDaGawd",
+        "Week 1 Commander": "Emperor Apatzec Intli IV",
+        "Week 1 Opponesnt": [
+            "el_chivo_x",
+            "XxjakegmrxX",
+            "@predchow"
+        ],
+        "Week 2 Commander": "Ygra, Eater of All",
+        "Week 2 Opponents": [
+            "grimstien1#5556",
+            "McClurkan#85329",
+            "Proshaka"
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": "Delney, Streetwise Lookout",
+        "Week 4 Opponents": [
+            "thorntonamo",
+            "ulavala",
+            "xbastoo3486"
+        ],
+        "Favorite Color": [
+            "G",
+            "R",
+            "W"
+        ]
+    },
+    "DaJolla#5108": {
+        "name": "DaJolla#5108",
+        "Week 1 Commander": "Winota, Joiner of Forces",
+        "Week 1 Opponesnt": [
+            "momo2000",
+            "Mortred#7824",
+            "Rendroc#6657"
+        ],
+        "Week 2 Commander": "Winota, Joiner of Forces",
+        "Week 2 Opponents": [
+            "yoyomuffin",
+            "MathemaTiGer128#0607",
+            "DiesToRemoval#38340"
+        ],
+        "Week 3 Commander": "Winota, Joiner of Forces",
+        "Week 3 Opponents": [
+            "XxjakegmrxX",
+            "blakeleygaming",
+            "ArthurusBear#94635"
+        ],
+        "Week 4 Commander": "Winota, Joiner of Forces",
+        "Week 4 Opponents": [
+            "onlyattarget",
+            "McClurkan#85329",
+            "Freyalis\u00c3\u00abr#3719"
+        ],
+        "Favorite Color": [
+            "R",
+            "W"
+        ]
+    },
+    "DiesToRemoval#38340": {
+        "name": "DiesToRemoval#38340",
+        "Week 1 Commander": "Kaito, Dancing Shadow",
+        "Week 1 Opponesnt": [
+            "grimstien1#5556",
+            "bpro_",
+            "XxjakegmrxX"
+        ],
+        "Week 2 Commander": "Kaito, Dancing Shadow",
+        "Week 2 Opponents": [
+            "yoyomuffin",
+            "DaJolla#5108",
+            "blakeleygaming"
+        ],
+        "Week 3 Commander": "Kaito, Dancing Shadow",
+        "Week 3 Opponents": [
+            "Rendroc#6657",
+            "MathemaTiGer128#0607",
+            "Mortred#7824"
+        ],
+        "Week 4 Commander": "Kaito, Dancing Shadow",
+        "Week 4 Opponents": [
+            "momo2000",
+            "onlyattarget",
+            "thorntonamo"
+        ],
+        "Favorite Color": [
+            "B",
+            "U"
+        ]
+    },
+    "el_chivo_x": {
+        "name": "el_chivo_x",
+        "Week 1 Commander": "Ulalek, Fused Atrocity",
+        "Week 1 Opponesnt": [
+            "grimstien1#5556",
+            "BudzDaGawd",
+            "@predchow"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ]
+    },
+    "escanorthecat": {
+        "name": "escanorthecat",
+        "Week 1 Commander": "Samut, Voice of Dissent",
+        "Week 1 Opponesnt": [
+            "ulavala",
+            "McClurkan#85329",
+            "thorntonamo"
+        ],
+        "Week 2 Commander": "Nylea, Keen-Eyed",
+        "Week 2 Opponents": [
+            "Sprucegoose8809",
+            "Clawed6#5212",
+            "tenebraephaedrus."
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": "Samut, Voice of Dissent",
+        "Week 4 Opponents": [
+            "ArthurusBear#94635",
+            "rokushiiki#26463",
+            "DemonOdda"
+        ],
+        "Favorite Color": [
+            "G",
+            "R",
+            "W"
+        ]
+    },
+    "Freyalis\u00c3\u00abr#3719": {
+        "name": "Freyalis\u00c3\u00abr#3719",
+        "Week 1 Commander": "Uro, Titan of Natures Wrath",
+        "Week 1 Opponesnt": [
+            "nicorave",
+            "Proshaka",
+            "onlyattarget"
+        ],
+        "Week 2 Commander": "Uro, Titan of Natures Wrath",
+        "Week 2 Opponents": [
+            "XxjakegmrxX",
+            "blakeleygaming",
+            "grimstien1#5556"
+        ],
+        "Week 3 Commander": "Uro, Titan of Natures Wrath",
+        "Week 3 Opponents": [
+            "McClurkan#85329",
+            "yoyomuffin",
+            "momo2000"
+        ],
+        "Week 4 Commander": "Ragavan, Nimble Pilferer",
+        "Week 4 Opponents": [
+            "MathemaTiGer128#0607",
+            "DaJolla#5108",
+            "thorntonamo"
+        ],
+        "Favorite Color": [
+            "G",
+            "U"
+        ]
+    },
+    "grimstien1#5556": {
+        "name": "grimstien1#5556",
+        "Week 1 Commander": "Klement, Novice Acolyte",
+        "Week 1 Opponesnt": [
+            "bpro_",
+            "DiesToRemoval#38340",
+            "el_chivo_x"
+        ],
+        "Week 2 Commander": "Minsc, Beloved Ranger",
+        "Week 2 Opponents": [
+            "Freyalis\u00c3\u00abr#3719",
+            "BudzDaGawd",
+            "McClurkan#85329"
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": "Alesha, Who Laughs at Fate",
+        "Week 4 Opponents": [
+            "blakeleygaming",
+            "Mortred#7824",
+            "ulavala"
+        ],
+        "Favorite Color": [
+            "W"
+        ]
+    },
+    "inkheart#1346": {
+        "name": "inkheart#1346",
+        "Week 1 Commander": "Raffine, Scheming Seer",
+        "Week 1 Opponesnt": [
+            "MathemaTiGer128#0607",
+            "yoyomuffin",
+            "mcknight#9612"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B",
+            "U",
+            "W"
+        ]
+    },
+    "masser": {
+        "name": "masser",
+        "Week 1 Commander": "Anim Pakal, Thousandth Moon",
+        "Week 1 Opponesnt": [
+            "themudman#8734",
+            "blakeleygaming",
+            "bpro_"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "R",
+            "W"
+        ]
+    },
+    "MathemaTiGer128#0607": {
+        "name": "MathemaTiGer128#0607",
+        "Week 1 Commander": "Crucias, Titan of the Waves",
+        "Week 1 Opponesnt": [
+            "Mortred#7824",
+            "Rendroc#6657",
+            "inkheart#1346"
+        ],
+        "Week 2 Commander": "Crucias, Titan of the Waves",
+        "Week 2 Opponents": [
+            "yoyomuffin",
+            "DaJolla#5108",
+            "XxjakegmrxX"
+        ],
+        "Week 3 Commander": "Crucias, Titan of the Waves",
+        "Week 3 Opponents": [
+            "momo2000",
+            "blakeleygaming",
+            "DiesToRemoval#38340"
+        ],
+        "Week 4 Commander": "Crucias, Titan of the Waves",
+        "Week 4 Opponents": [
+            "McClurkan#85329",
+            "onlyattarget",
+            "Freyalis\u00c3\u00abr#3719"
+        ],
+        "Favorite Color": [
+            "B",
+            "R"
+        ]
+    },
+    "McClurkan#85329": {
+        "name": "McClurkan#85329",
+        "Week 1 Commander": "Slimefoot and Squee",
+        "Week 1 Opponesnt": [
+            "Sprucegoose8809",
+            "ulavala",
+            "escanorthecat"
+        ],
+        "Week 2 Commander": "Slimefoot and Squee",
+        "Week 2 Opponents": [
+            "BudzDaGawd",
+            "grimstien1#5556",
+            "Proshaka"
+        ],
+        "Week 3 Commander": "Slimefoot and Squee",
+        "Week 3 Opponents": [
+            "Freyalis\u00c3\u00abr#3719",
+            "yoyomuffin",
+            "onlyattarget"
+        ],
+        "Week 4 Commander": "Slimefoot and Squee",
+        "Week 4 Opponents": [
+            "MathemaTiGer128#0607",
+            "momo2000",
+            "DaJolla#5108"
+        ],
+        "Favorite Color": [
+            "B",
+            "G",
+            "R"
+        ]
+    },
+    "mcknight#9612": {
+        "name": "mcknight#9612",
+        "Week 1 Commander": "Grenzo, Crooked Jailer",
+        "Week 1 Opponesnt": [
+            "yoyomuffin",
+            "inkheart#1346",
+            "Sprucegoose8809"
+        ],
+        "Week 2 Commander": "Grenzo, Crooked Jailer",
+        "Week 2 Opponents": [
+            "onlyattarget",
+            "momo2000",
+            "Rendroc#6657"
+        ],
+        "Week 3 Commander": "Grenzo, Crooked Jailer",
+        "Week 3 Opponents": [
+            "Mortred#7824",
+            "thorntonamo",
+            "Clawed6#5212"
+        ],
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B",
+            "R"
+        ]
+    },
+    "momo2000": {
+        "name": "momo2000",
+        "Week 1 Commander": "Teferi, Time Raveler",
+        "Week 1 Opponesnt": [
+            "Proshaka",
+            "onlyattarget",
+            "DaJolla#5108"
+        ],
+        "Week 2 Commander": "Teferi, Time Raveler",
+        "Week 2 Opponents": [
+            "mcknight#9612",
+            "ArthurusBear#94635",
+            "Rendroc#6657"
+        ],
+        "Week 3 Commander": "Teferi, Time Raveler",
+        "Week 3 Opponents": [
+            "Freyalis\u00c3\u00abr#3719",
+            "XxjakegmrxX",
+            "MathemaTiGer128#0607"
+        ],
+        "Week 4 Commander": "Teferi, Time Raveler",
+        "Week 4 Opponents": [
+            "yoyomuffin",
+            "McClurkan#85329",
+            "DiesToRemoval#38340"
+        ],
+        "Favorite Color": [
+            "U",
+            "W"
+        ]
+    },
+    "Mortred#7824": {
+        "name": "Mortred#7824",
+        "Week 1 Commander": "Yorion, Sky Nomad",
+        "Week 1 Opponesnt": [
+            "DaJolla#5108",
+            "Rendroc#6657",
+            "MathemaTiGer128#0607"
+        ],
+        "Week 2 Commander": "Slimefoot and Squee",
+        "Week 2 Opponents": [
+            "thorntonamo",
+            "@predchow",
+            "Sprucegoose8809"
+        ],
+        "Week 3 Commander": "Phlage, Titan of Fires Fury",
+        "Week 3 Opponents": [
+            "DiesToRemoval#38340",
+            "ArthurusBear#94635",
+            "mcknight#9612"
+        ],
+        "Week 4 Commander": "Muxus, Goblin Grandee",
+        "Week 4 Opponents": [
+            "blakeleygaming",
+            "yoyomuffin",
+            "grimstien1#5556"
+        ],
+        "Favorite Color": [
+            "U",
+            "W"
+        ]
+    },
+    "nicorave": {
+        "name": "nicorave",
+        "Week 1 Commander": "Valgavoth, Terror Eater",
+        "Week 1 Opponesnt": [
+            "Freyalis\u00c3\u00abr#3719",
+            "Proshaka",
+            "onlyattarget"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B"
+        ]
+    },
+    "onlyattarget": {
+        "name": "onlyattarget",
+        "Week 1 Commander": "Uro, Titan of Natures Wrath",
+        "Week 1 Opponesnt": [
+            "nicorave",
+            "Freyalis\u00c3\u00abr#3719",
+            "momo2000"
+        ],
+        "Week 2 Commander": "Uro, Titan of Natures Wrath",
+        "Week 2 Opponents": [
+            "Proshaka",
+            "mcknight#9612",
+            "ArthurusBear#94635"
+        ],
+        "Week 3 Commander": "Uro, Titan of Natures Wrath",
+        "Week 3 Opponents": [
+            "McClurkan#85329",
+            "yoyomuffin",
+            "XxjakegmrxX"
+        ],
+        "Week 4 Commander": "Uro, Titan of Natures Wrath",
+        "Week 4 Opponents": [
+            "MathemaTiGer128#0607",
+            "DaJolla#5108",
+            "DiesToRemoval#38340"
+        ],
+        "Favorite Color": [
+            "G",
+            "U"
+        ]
+    },
+    "Proshaka": {
+        "name": "Proshaka",
+        "Week 1 Commander": "Derevi, Empyrial Tactician",
+        "Week 1 Opponesnt": [
+            "nicorave",
+            "Freyalis\u00c3\u00abr#3719",
+            "momo2000"
+        ],
+        "Week 2 Commander": "Derevi, Empyrial Tactician",
+        "Week 2 Opponents": [
+            "BudzDaGawd",
+            "McClurkan#85329",
+            "onlyattarget"
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "G",
+            "U",
+            "W"
+        ]
+    },
+    "Rendroc#6657": {
+        "name": "Rendroc#6657",
+        "Week 1 Commander": "Gyruda, Doom of Depths",
+        "Week 1 Opponesnt": [
+            "Mortred#7824",
+            "DaJolla#5108",
+            "MathemaTiGer128#0607"
+        ],
+        "Week 2 Commander": "Gyruda, Doom of Depths",
+        "Week 2 Opponents": [
+            "mcknight#9612",
+            "momo2000",
+            "thorntonamo"
+        ],
+        "Week 3 Commander": "Gyruda, Doom of Depths",
+        "Week 3 Opponents": [
+            "blakeleygaming",
+            "DiesToRemoval#38340",
+            "ArthurusBear#94635"
+        ],
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B",
+            "U"
+        ]
+    },
+    "Sprucegoose8809": {
+        "name": "Sprucegoose8809",
+        "Week 1 Commander": "Sythis, Harvests Hand",
+        "Week 1 Opponesnt": [
+            "yoyomuffin",
+            "mcknight#9612",
+            "McClurkan#85329"
+        ],
+        "Week 2 Commander": "Niv-Mizzet, Parun",
+        "Week 2 Opponents": [
+            "Mortred#7824",
+            "escanorthecat",
+            "DemonOdda"
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "G",
+            "W"
+        ]
+    },
+    "themudman#8734": {
+        "name": "themudman#8734",
+        "Week 1 Commander": "Raffine, Scheming Seer",
+        "Week 1 Opponesnt": [
+            "ArthurusBear#94635",
+            "blakeleygaming",
+            "masser"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B",
+            "U",
+            "W"
+        ]
+    },
+    "thorntonamo": {
+        "name": "thorntonamo",
+        "Week 1 Commander": "Balmor, Battlemage Captain",
+        "Week 1 Opponesnt": [
+            "ulavala",
+            "escanorthecat",
+            "ArthurusBear#94635"
+        ],
+        "Week 2 Commander": "Eladamri, Korvecdal",
+        "Week 2 Opponents": [
+            "Rendroc#6657",
+            "@predchow",
+            "Mortred#7824"
+        ],
+        "Week 3 Commander": "Eladamri, Korvecdal",
+        "Week 3 Opponents": [
+            "mcknight#9612",
+            "Clawed6#5212",
+            "DemonOdda"
+        ],
+        "Week 4 Commander": "Eladamri, Korvecdal",
+        "Week 4 Opponents": [
+            "DiesToRemoval#38340",
+            "Freyalis\u00c3\u00abr#3719",
+            "BudzDaGawd"
+        ],
+        "Favorite Color": [
+            "R",
+            "U"
+        ]
+    },
+    "ulavala": {
+        "name": "ulavala",
+        "Week 1 Commander": "Davriel, Soul Broker",
+        "Week 1 Opponesnt": [
+            "McClurkan#85329",
+            "escanorthecat",
+            "thorntonamo"
+        ],
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": "Azusa, Lost but Seeking",
+        "Week 4 Opponents": [
+            "BudzDaGawd",
+            "grimstien1#5556",
+            "xbastoo3486"
+        ],
+        "Favorite Color": [
+            "B"
+        ]
+    },
+    "XxjakegmrxX": {
+        "name": "XxjakegmrxX",
+        "Week 1 Commander": "Teysa of the Ghost Council",
+        "Week 1 Opponesnt": [
+            "BudzDaGawd",
+            "@predchow",
+            "DiesToRemoval#38340"
+        ],
+        "Week 2 Commander": "Teysa of the Ghost Council",
+        "Week 2 Opponents": [
+            "MathemaTiGer128#0607",
+            "blakeleygaming",
+            "Freyalis\u00c3\u00abr#3719"
+        ],
+        "Week 3 Commander": "Teysa of the Ghost Council",
+        "Week 3 Opponents": [
+            "momo2000",
+            "onlyattarget",
+            "DaJolla#5108"
+        ],
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": [
+            "B",
+            "W"
+        ]
+    },
+    "yoyomuffin": {
+        "name": "yoyomuffin",
+        "Week 1 Commander": "Derevi, Empyrial Tactician",
+        "Week 1 Opponesnt": [
+            "inkheart#1346",
+            "mcknight#9612",
+            "Sprucegoose8809"
+        ],
+        "Week 2 Commander": "Derevi, Empyrial Tactician",
+        "Week 2 Opponents": [
+            "DaJolla#5108",
+            "MathemaTiGer128#0607",
+            "DiesToRemoval#38340"
+        ],
+        "Week 3 Commander": "Derevi, Empyrial Tactician",
+        "Week 3 Opponents": [
+            "Freyalis\u00c3\u00abr#3719",
+            "McClurkan#85329",
+            "onlyattarget"
+        ],
+        "Week 4 Commander": "Derevi, Empyrial Tactician",
+        "Week 4 Opponents": [
+            "momo2000",
+            "blakeleygaming",
+            "Mortred#7824"
+        ],
+        "Favorite Color": [
+            "G",
+            "U",
+            "W"
+        ]
+    },
+    "DemonOdda": {
+        "name": "DemonOdda",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": "The First Sliver",
+        "Week 2 Opponents": [
+            "tenebraephaedrus.",
+            "Sprucegoose8809",
+            "Clawed6#5212"
+        ],
+        "Week 3 Commander": "Omnath, Locus of Creation",
+        "Week 3 Opponents": [
+            "thorntonamo",
+            "rokushiiki#26463",
+            "xbastoo3486"
+        ],
+        "Week 4 Commander": "Rusko, Clockmaker",
+        "Week 4 Opponents": [
+            "escanorthecat",
+            "luke.4812",
+            "buncake"
+        ],
+        "Favorite Color": null
+    },
+    "Clawed6#5212": {
+        "name": "Clawed6#5212",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": "Sorin of House Markov",
+        "Week 2 Opponents": [
+            "escanorthecat",
+            "tenebraephaedrus.",
+            "DemonOdda"
+        ],
+        "Week 3 Commander": "Balmor, Battlemage Captain",
+        "Week 3 Opponents": [
+            "thorntonamo",
+            "mcknight#9612",
+            "rokushiiki#26463"
+        ],
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": null
+    },
+    "tenebraephaedrus.": {
+        "name": "tenebraephaedrus.",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": "Teferi, Hero of Dominaria",
+        "Week 2 Opponents": [
+            "escanorthecat",
+            "Clawed6#5212",
+            "DemonOdda"
+        ],
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": null,
+        "Week 4 Opponents": null,
+        "Favorite Color": null
+    },
+    "rokushiiki#26463": {
+        "name": "rokushiiki#26463",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": "Chulane, Teller of Tales",
+        "Week 3 Opponents": [
+            "DemonOdda",
+            "Clawed6#5212",
+            "xbastoo3486"
+        ],
+        "Week 4 Commander": "Chulane, Teller of Tales",
+        "Week 4 Opponents": [
+            "escanorthecat",
+            "ArthurusBear#94635",
+            "luke.4812"
+        ],
+        "Favorite Color": null
+    },
+    "xbastoo3486": {
+        "name": "xbastoo3486",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": "Teferi, Hero of Dominaria",
+        "Week 3 Opponents": [
+            "DemonOdda",
+            "rokushiiki#26463",
+            "BYE"
+        ],
+        "Week 4 Commander": "Raffine, Scheming Seer",
+        "Week 4 Opponents": [
+            "BudzDaGawd",
+            "ulavala",
+            "ArthurusBear#94635"
+        ],
+        "Favorite Color": null
+    },
+    "luke.4812": {
+        "name": "luke.4812",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": "Sai, Master Thopterist",
+        "Week 4 Opponents": [
+            "DemonOdda",
+            "rokushiiki#26463",
+            "buncake"
+        ],
+        "Favorite Color": null
+    },
+    "buncake": {
+        "name": "buncake",
+        "Week 1 Commander": null,
+        "Week 1 Opponesnt": null,
+        "Week 2 Commander": null,
+        "Week 2 Opponents": null,
+        "Week 3 Commander": null,
+        "Week 3 Opponents": null,
+        "Week 4 Commander": "Nissa, Ascended Animist",
+        "Week 4 Opponents": [
+            "DemonOdda",
+            "luke.4812",
+            ""
+        ],
+        "Favorite Color": null
+    }
+}
